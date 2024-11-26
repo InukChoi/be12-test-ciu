@@ -44,4 +44,10 @@ psm 추가함
 - 기타 게시판 등
     - 공지사항
     - Q&A
+<<<<<<< HEAD
 >>>>>>> 020d932 ([Fix] read me)
+=======
+
+## 클레스 다이어그램
+![를레스 다이어그램](./imgs/cwi.drawio.png)
+>>>>>>> d5edbf5 ([Fix] classDiagrams update)
