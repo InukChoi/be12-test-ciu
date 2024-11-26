@@ -50,4 +50,10 @@ psm 추가함
 
 ## 클레스 다이어그램
 ![를레스 다이어그램](./imgs/cwi.drawio.png)
+<<<<<<< HEAD
 >>>>>>> d5edbf5 ([Fix] classDiagrams update)
+=======
+
+### 주문
+![주문](./imgs/order.table.png)
+>>>>>>> 1b3ac7d ([Fix] 클래스 다이어그램 주문)
