@@ -55,6 +55,7 @@ psm 추가함
 ### 상품
 ![상품](./imgs/상품_클래스4.PNG)
 
+<<<<<<< HEAD
 ### 주문
 ![주문](./imgs/order.table.png)
 
@@ -63,10 +64,13 @@ psm 추가함
 ![회원정보](./imgs/회원정보.drawio.png)
 
 
+=======
+>>>>>>> f31c779 ([Docs] 게시글 다이어그램 추가)
 ### 주문
 ![주문](./imgs/order.table.png)
 
 ### 회원정보
+<<<<<<< HEAD
 <<<<<<< HEAD
 ![회원정보](./imgs/회원정보.drawio.png)
 
@@ -77,3 +81,9 @@ psm 추가함
 =======
 ![회원정보](./imgs/회원정보.drawio.png)
 >>>>>>> 2cfab7d ([Fix] 회원정보 추가)
+=======
+![회원정보](./imgs/회원정보.drawio.png)
+
+### 게시글
+![게시글](./imgs/boardDiagram.png)
+>>>>>>> f31c779 ([Docs] 게시글 다이어그램 추가)
