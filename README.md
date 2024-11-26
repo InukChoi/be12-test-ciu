@@ -62,8 +62,6 @@ psm 추가함
 ### 회원정보
 ![회원정보](./imgs/회원정보.drawio.png)
 
-<<<<<<< HEAD
-
 
 ### 주문
 ![주문](./imgs/order.table.png)
@@ -71,7 +69,7 @@ psm 추가함
 ### 회원정보
 ![회원정보](./imgs/회원정보.drawio.png)
 
-=======
+
 ### 게시글
 ![게시글](./imgs/boardDiagram.png)
->>>>>>> 342e62450b09bce1425ec15be564087da8de49b7
+
