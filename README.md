@@ -14,6 +14,10 @@ psm 추가함
 
 최원익이 추가함
 
+
+![UCD](/imgs/ucd.drawio.png)
+
+
 ![UCD](/imgs/ucd.drawio.png)
 
 - 회원
