@@ -56,6 +56,8 @@ psm 추가함
 ![상품](./imgs/상품_클래스4.PNG)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
 ### 주문
 ![주문](./imgs/order.table.png)
 
@@ -64,6 +66,16 @@ psm 추가함
 ![회원정보](./imgs/회원정보.drawio.png)
 
 
+>>>>>>> edea41e ([Fix] update)
+### 주문
+![주문](./imgs/order.table.png)
+
+
+### 회원정보
+![회원정보](./imgs/회원정보.drawio.png)
+
+
+<<<<<<< HEAD
 =======
 >>>>>>> f31c779 ([Docs] 게시글 다이어그램 추가)
 ### 주문
@@ -87,3 +99,8 @@ psm 추가함
 ### 게시글
 ![게시글](./imgs/boardDiagram.png)
 >>>>>>> f31c779 ([Docs] 게시글 다이어그램 추가)
+=======
+### 게시글
+![게시글](./imgs/boardDiagram.png)
+
+>>>>>>> edea41e ([Fix] update)
