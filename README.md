@@ -42,3 +42,6 @@ psm 추가함
 
 ## 클레스 다이어그램
 ![를레스 다이어그램](./imgs/cwi.drawio.png)
+
+### 주문
+![주문](./imgs/order.table.png)
