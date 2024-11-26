@@ -48,11 +48,20 @@ psm 추가함
 >>>>>>> 020d932 ([Fix] read me)
 =======
 
+<<<<<<< HEAD
 ## 클레스 다이어그램
 ![를레스 다이어그램](./imgs/cwi.drawio.png)
 <<<<<<< HEAD
 >>>>>>> d5edbf5 ([Fix] classDiagrams update)
 =======
+=======
+
+## 클래스 다이어그램
+![클래스 다이어그램](./imgs/cwi.drawio.png)
+
+![상품](./imgs/상품_클래스4.PNG)
+
+>>>>>>> 04e1e67 ([Feat] 상품 추가)
 
 ### 주문
 ![주문](./imgs/order.table.png)
