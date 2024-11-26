@@ -40,8 +40,12 @@ psm 추가함
     - 공지사항
     - Q&A
 
-## 클레스 다이어그램
-![를레스 다이어그램](./imgs/cwi.drawio.png)
+
+## 클래스 다이어그램
+![클래스 다이어그램](./imgs/cwi.drawio.png)
+
+![상품](./imgs/상품_클래스4.PNG)
+
 
 ### 주문
 ![주문](./imgs/order.table.png)
