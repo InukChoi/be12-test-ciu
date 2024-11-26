@@ -10,17 +10,16 @@
 
 psm 추가함
 
-<<<<<<< HEAD
 ## :rainbow: 운영환경
 
 최원익이 추가함
-<<<<<<< HEAD
-=======
-=======
+
 
 ![UCD](/imgs/ucd.drawio.png)
 
->>>>>>> f333325 ([Docs] UCD 추가)
+
+![UCD](/imgs/ucd.drawio.png)
+
 - 회원
     - 회원가입
     - 로그인
@@ -44,31 +43,30 @@ psm 추가함
 - 기타 게시판 등
     - 공지사항
     - Q&A
-<<<<<<< HEAD
->>>>>>> 020d932 ([Fix] read me)
-=======
 
-<<<<<<< HEAD
+
 ## 클레스 다이어그램
 ![를레스 다이어그램](./imgs/cwi.drawio.png)
-<<<<<<< HEAD
->>>>>>> d5edbf5 ([Fix] classDiagrams update)
-=======
-=======
+
 
 ## 클래스 다이어그램
 ![클래스 다이어그램](./imgs/cwi.drawio.png)
 
 ![상품](./imgs/상품_클래스4.PNG)
 
->>>>>>> 04e1e67 ([Feat] 상품 추가)
 
 ### 주문
 ![주문](./imgs/order.table.png)
-<<<<<<< HEAD
->>>>>>> 1b3ac7d ([Fix] 클래스 다이어그램 주문)
-=======
+
 
 ### 회원정보
 ![회원정보](./imgs/회원정보.drawio.png)
->>>>>>> 2cfab7d ([Fix] 회원정보 추가)
+
+
+
+### 주문
+![주문](./imgs/order.table.png)
+
+### 회원정보
+![회원정보](./imgs/회원정보.drawio.png)
+
