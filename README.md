@@ -44,11 +44,14 @@ psm 추가함
 ## 클래스 다이어그램
 ![클래스 다이어그램](./imgs/cwi.drawio.png)
 
+### 상품
 ![상품](./imgs/상품_클래스4.PNG)
-
 
 ### 주문
 ![주문](./imgs/order.table.png)
 
 ### 회원정보
 ![회원정보](./imgs/회원정보.drawio.png)
+
+### 게시글
+![게시글](./imgs/boardDiagram.png)
